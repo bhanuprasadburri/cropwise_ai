@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', 'Outfit', sans-serif;
+
+  --color-agri-50: #f0fdf4;
+  --color-agri-100: #dcfce7;
+  --color-agri-200: #bbf7d0;
+  --color-agri-300: #86efac;
+  --color-agri-400: #4ade80;
+  --color-agri-500: #22c55e;
+  --color-agri-600: #16a34a;
+  --color-agri-700: #15803d;
+  --color-agri-800: #166534;
+  --color-agri-900: #14532d;
+  --color-agri-dark: #1b4332;
+  --color-agri-sidebar: #143829;
+  --color-agri-brand: #2d6a4f;
+  --color-agri-accent: #52b788;
+  --color-agri-light: #f8faf8;
+  --color-agri-card: #ffffff;
+  --color-agri-gold: #d97706;
+
+  --shadow-soft: 0 4px 20px -2px rgba(27, 67, 50, 0.08);
+  --shadow-card: 0 2px 10px rgba(0, 0, 0, 0.04), 0 10px 25px -5px rgba(27, 67, 50, 0.05);
+}
+
+@layer base {
+  body {
+    background-color: #f8faf8;
+    color: #1f2937;
+    font-family: 'Inter', 'Outfit', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Outfit', 'Inter', sans-serif;
+  }
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Animations */
+@keyframes pulse-subtle {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+.animate-pulse-subtle {
+  animation: pulse-subtle 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}

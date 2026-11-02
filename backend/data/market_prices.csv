@@ -1,0 +1,19 @@
+crop,state,district,market,date,min_price,max_price,modal_price,arrival_quantity,source
+Paddy (Common),Andhra Pradesh,Palnadu,Narasaraopet APMC,2026-08-01,2100,2200,2150,1200,Agmarknet
+Paddy (Common),Andhra Pradesh,Palnadu,Narasaraopet APMC,2026-08-08,2120,2230,2180,1350,Agmarknet
+Paddy (Common),Andhra Pradesh,Palnadu,Narasaraopet APMC,2026-08-15,2150,2260,2210,1400,Agmarknet
+Paddy (Common),Andhra Pradesh,Palnadu,Narasaraopet APMC,2026-08-22,2200,2300,2260,1420,Agmarknet
+Paddy (Common),Andhra Pradesh,Palnadu,Narasaraopet APMC,2026-08-29,2240,2340,2290,1450,Agmarknet
+Paddy (Common),Andhra Pradesh,Palnadu,Narasaraopet APMC,2026-09-02,2250,2350,2300,1450,Agmarknet
+Tomato,Andhra Pradesh,Guntur,Guntur Wholesale Market,2026-08-01,1300,1500,1400,800,Agmarknet
+Tomato,Andhra Pradesh,Guntur,Guntur Wholesale Market,2026-08-08,1420,1620,1520,810,Agmarknet
+Tomato,Andhra Pradesh,Guntur,Guntur Wholesale Market,2026-08-15,1550,1750,1650,830,Agmarknet
+Tomato,Andhra Pradesh,Guntur,Guntur Wholesale Market,2026-08-22,1620,1820,1720,820,Agmarknet
+Tomato,Andhra Pradesh,Guntur,Guntur Wholesale Market,2026-08-29,1710,1910,1810,815,Agmarknet
+Tomato,Andhra Pradesh,Guntur,Guntur Wholesale Market,2026-09-02,1750,1950,1850,820,Agmarknet
+Cotton (Lint),Andhra Pradesh,Palnadu,Narasaraopet Cotton Yard,2026-08-01,6600,7000,6800,2000,Agmarknet
+Cotton (Lint),Andhra Pradesh,Palnadu,Narasaraopet Cotton Yard,2026-08-08,6700,7100,6890,2050,Agmarknet
+Cotton (Lint),Andhra Pradesh,Palnadu,Narasaraopet Cotton Yard,2026-08-15,6750,7150,6950,2080,Agmarknet
+Cotton (Lint),Andhra Pradesh,Palnadu,Narasaraopet Cotton Yard,2026-08-22,6820,7220,7020,2100,Agmarknet
+Cotton (Lint),Andhra Pradesh,Palnadu,Narasaraopet Cotton Yard,2026-08-29,6880,7280,7080,2100,Agmarknet
+Cotton (Lint),Andhra Pradesh,Palnadu,Narasaraopet Cotton Yard,2026-09-02,6900,7300,7100,2100,Agmarknet
